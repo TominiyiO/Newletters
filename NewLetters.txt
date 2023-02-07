@@ -1,1 +1,31 @@
-Sam Gaskill
+<<<<<<< HEAD
+=======
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+-Louis McBride
+M
+N
+O
+P
+Q
+R
+S
+-Sam Gaskill
+T
+U
+V
+W
+X
+Y
+Z
+>>>>>>> 2b75b639d071f2ce89891272818dc1a724606ed1
